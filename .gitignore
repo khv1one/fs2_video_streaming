@@ -1,2 +1,14 @@
-*.class
+.DB_Store
+.DS_Store
+logs
+target/
+/.storage
+/.idea
+/.bsp
+/.idea_modules
+/.classpath
+/.project
+/.settings
+node_modules
+yarn.lock
 *.log
